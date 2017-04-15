@@ -4,6 +4,7 @@
 // In order to use non-standard dollar functions, e.g. $("USER")
 // you need to define CCSH_NON_STANDARD_DOLLAR
 
+
 #include "ccsh_utils.hpp"
 #include "ccsh_regex.hpp"
 #include "ccsh_command.hpp"
